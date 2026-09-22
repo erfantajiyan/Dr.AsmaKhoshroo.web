@@ -9115,7 +9115,7 @@ q.appendChild(s).toString}$.Sx=s
 A.mP(B.Is,new A.am5(s),t.P)
 return!0},
 b59(a,a0){var s,r,q,p,o,n,m,l,k="-",j='<td style="text-align:center; font-weight:bold">',i='<td style="white-space:nowrap">',h='<td style="text-align:center">',g=" \u062a\u0648\u0645\u0627\u0646</div></td>",f=new A.cp(""),e=a.d,d=B.ar.bq(e),c=a.b,b=a.w
-c='<!DOCTYPE html>\n<html lang="fa" dir="rtl">\n<head>\n<meta charset="UTF-8">\n<title>\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0628\u06cc\u0645\u0627\u0631</title>\n<script>\n  // \u0686\u0627\u067e \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0639\u062f \u0627\u0632 \u0644\u0648\u062f \u06a9\u0627\u0645\u0644 \u2014 \u0627\u0632 \u062f\u0627\u062e\u0644 \u062e\u0648\u062f iframe \u0635\u062f\u0627 \u0632\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\n  window.addEventListener(\'load\', function () {\n    setTimeout(function () { window.print(); }, 500);\n  });\n</script>\n<style>\n  * { box-sizing: border-box; margin: 0; padding: 0; }\n  body {\n    font-family: Tahoma, \'Segoe UI\', Arial, sans-serif;\n    color: #222;\n    padding: 30px;\n    background: #fff;\n    line-height: 1.7;\n  }\n  .header {\n    text-align: center;\n    border-bottom: 3px solid #29AB87;\n    padding-bottom: 16px;\n    margin-bottom: 24px;\n  }\n  .header h1 { color: #1E8A6A; font-size: 24px; margin-bottom: 6px; }\n  .header p { color: #666; font-size: 14px; }\n  h2 {\n    color: #fff;\n    background: #29AB87;\n    padding: 8px 14px;\n    border-radius: 6px;\n    font-size: 16px;\n    margin: 22px 0 12px;\n  }\n  table { width: 100%; border-collapse: collapse; margin-bottom: 6px; }\n  table td, table th {\n    border: 1px solid #ddd;\n    padding: 8px 10px;\n    font-size: 13px;\n    vertical-align: top;\n  }\n  table th { background: #f2f9f6; width: 130px; font-weight: 600; color: #1E8A6A; }\n  .chips { margin-top: 2px; }\n  .chip {\n    display: inline-block;\n    padding: 3px 10px;\n    border-radius: 12px;\n    margin: 3px 3px 3px 0;\n    font-size: 12px;\n  }\n  .chip.yes { background: #e6f7f1; color: #1E8A6A; border: 1px solid #29AB87; }\n  .chip.no { background: #f5f5f5; color: #999; border: 1px solid #e0e0e0; }\n  .footer { margin-top: 30px; text-align: center; font-size: 12px; color: #999; border-top: 1px solid #eee; padding-top: 12px; }\n  @media print {\n    body { padding: 10mm; }\n  }\n</style>\n</head>\n<body>\n  <div class="header">\n    <h1>'+d+"</h1>\n    <p>\u0634\u0645\u0627\u0631\u0647 \u067e\u0631\u0648\u0646\u062f\u0647: "+B.ar.bq(c==null?k:c)+" &nbsp;|&nbsp; \u0645\u0648\u0628\u0627\u06cc\u0644: "+B.ar.bq(b)+"</p>\n  </div>\n"
+c='<!DOCTYPE html>\n<html lang="fa" dir="rtl">\n<head>\n<meta charset="UTF-8">\n<title>\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0628\u06cc\u0645\u0627\u0631</title>\n<script>\n  // \u0686\u0627\u067e \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0639\u062f \u0627\u0632 \u0644\u0648\u062f \u06a9\u0627\u0645\u0644 \u2014 \u0627\u0632 \u062f\u0627\u062e\u0644 \u062e\u0648\u062f iframe \u0635\u062f\u0627 \u0632\u062f\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f\n  window.addEventListener(\'load\', function () {\n    setTimeout(function () { window.print(); }, 500);\n  });\n</script>\n<style>\n  * { box-sizing: border-box; margin: 0; padding: 0; }\n  body {\n    font-family: Tahoma, \'Segoe UI\', Arial, sans-serif;\n    color: #222;\n    padding: 30px;\n    background: #fff;\n    line-height: 1.7;\n  }\n  .header {\n    text-align: center;\n    border-bottom: 3px solid #29AB87;\n    padding-bottom: 16px;\n    margin-bottom: 24px;\n  }\n  .header h1 { color: #1E8A6A; font-size: 24px; margin-bottom: 6px; }\n  .header p { color: #666; font-size: 14px; }\n  h2 {\n    color: #fff;\n    background: #29AB87;\n    padding: 8px 14px;\n    border-radius: 6px;\n    font-size: 16px;\n    margin: 22px 0 12px;\n  }\n  table { width: 100%; border-collapse: collapse; margin-bottom: 6px; }\n  table td, table th {\n    border: 1px solid #ddd;\n    padding: 8px 10px;\n    font-size: 13px;\n    vertical-align: top;\n  }\n  table th { background: #f2f9f6; width: 130px; font-weight: 600; color: #1E8A6A; }\n  .chips { margin-top: 2px; }\n  .chip {\n    display: inline-block;\n    padding: 3px 10px;\n    border-radius: 12px;\n    margin: 3px 3px 3px 0;\n    font-size: 12px;\n  }\n  .chip.yes { background: #e6f7f1; color: #1E8A6A; border: 1px solid #29AB87; }\n  .chip.no { background: #f5f5f5; color: #999; border: 1px solid #e0e0e0; }\n  .footer { margin-top: 30px; text-align: center; font-size: 12px; color: #999; border-top: 1px solid #eee; padding-top: 12px; }\n  @media print {\n    body { padding: 10mm; }\n  }\n</style>\n</head>\n<body>\n  <div class="header">\n    <h1>'+d+'</h1>\n    <p>\u0634\u0645\u0627\u0631\u0647 \u067e\u0631\u0648\u0646\u062f\u0647: <span dir="ltr">'+B.ar.bq(c==null?k:c)+'</span> &nbsp;|&nbsp; \u0645\u0648\u0628\u0627\u06cc\u0644: <span dir="ltr">'+B.ar.bq(b)+"</span></p>\n  </div>\n"
 f.a=c
 c+="<h2>\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0641\u0631\u062f\u06cc</h2><table>"
 f.a=c
@@ -49608,12 +49608,12 @@ o=A.bZ(h,A.dO(A.aJ(B.c.U(n,0,1),h,h,h,B.ZN,h,h),h,h),B.m,h,h,new A.bx(p,h,h,o,h,
 p=t.p
 n=A.b([A.aJ(n,h,h,h,B.XK,h,h)],p)
 m=a.b
-if(m!=null)B.b.K(n,A.b([B.hb,A.cJ(A.b([A.i7(B.qr,A.ak(217,B.f.u()>>>16&255,B.f.u()>>>8&255,B.f.u()&255),h,16),B.Vc,A.aJ("\u067e\u0631\u0648\u0646\u062f\u0647: "+m,h,h,h,A.eF(h,h,A.ak(217,B.f.u()>>>16&255,B.f.u()>>>8&255,B.f.u()&255),h,h,h,h,h,h,h,h,14,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],p),B.w,B.v,B.y,0)],p))
+if(m!=null)B.b.K(n,A.b([B.hb,A.cJ(A.b([A.i7(B.qr,A.ak(217,B.f.u()>>>16&255,B.f.u()>>>8&255,B.f.u()&255),h,16),B.Vc,A.aJ("\u067e\u0631\u0648\u0646\u062f\u0647: \u2066"+m+"\u2069",h,h,h,A.eF(h,h,A.ak(217,B.f.u()>>>16&255,B.f.u()>>>8&255,B.f.u()&255),h,h,h,h,h,h,h,h,14,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h)],p),B.w,B.v,B.y,0)],p))
 s=A.bZ(h,A.cJ(A.b([o,B.n8,A.e0(A.da(n,B.az,B.v,B.y))],p),B.w,B.v,B.y,0),B.m,h,h,new A.bx(h,h,h,s,q,B.cD,B.J),h,h,h,B.cV,h,h,h)
 q=this.a
-o=q.jw("\u0645\u0648\u0628\u0627\u06cc\u0644",a.w)
+o=q.jw("\u0645\u0648\u0628\u0627\u06cc\u0644","\u2066"+a.w+"\u2069")
 n=a.x
-n=q.jw("\u062a\u0644\u0641\u0646",n==null?g:n)
+n=q.jw("\u062a\u0644\u0641\u0646",n!=null?"\u2066"+n+"\u2069":g)
 m=a.y
 m=q.jw("\u0622\u062f\u0631\u0633",m==null?g:m)
 l=a.r
@@ -50225,14 +50225,13 @@ if(r.gV(a))return A.dO(A.da(A.b([A.bZ(s,B.KJ,B.m,s,s,B.Ec,s,s,s,B.cV,s,s,s),B.n9
 return A.aSN(new A.alQ(a),r.gC(a),B.i4)},
 $S:119}
 A.alQ.prototype={
-$2(a,b){var s,r,q,p,o=null,n=J.aK(this.a,b),m=A.br(14),l=A.Be(A.ak(128,B.bs.u()>>>16&255,B.bs.u()>>>8&255,B.bs.u()&255)),k=A.b([new A.bl(0,B.I,A.ak(8,B.l.u()>>>16&255,B.l.u()>>>8&255,B.l.u()&255),B.cZ,6)],t.V),j=A.br(14),i=A.br(14)
-i=A.bZ(o,A.dO(A.aJ(B.c.U(n.gon(),0,1),o,o,o,B.Xs,o,o),o,o),B.m,o,o,new A.bx(o,o,o,i,o,B.cD,B.J),o,48,o,o,o,o,48)
-s=A.aJ(n.gon(),o,o,o,B.CF,o,o)
+$2(a,b){var s,r,q,p=null,o=J.aK(this.a,b),n=A.br(14),m=A.Be(A.ak(128,B.bs.u()>>>16&255,B.bs.u()>>>8&255,B.bs.u()&255)),l=A.b([new A.bl(0,B.I,A.ak(8,B.l.u()>>>16&255,B.l.u()>>>8&255,B.l.u()&255),B.cZ,6)],t.V),k=A.br(14),j=A.br(14)
+j=A.bZ(p,A.dO(A.aJ(B.c.U(o.gon(),0,1),p,p,p,B.Xs,p,p),p,p),B.m,p,p,new A.bx(p,p,p,j,p,B.cD,B.J),p,48,p,p,p,p,48)
+s=A.aJ(o.gon(),p,p,p,B.CF,p,p)
 r=t.p
-q=A.b([B.Kp,B.C3,A.aJ(n.gxR(),o,o,o,B.hg,o,o)],r)
-if(n.gDo()!=null){p=n.gDo()
-p.toString
-B.b.K(q,A.b([B.c6,B.KC,B.C3,A.aJ(p,o,o,o,B.hg,o,o)],r))}return A.bZ(o,A.ht(!1,B.P,!0,o,A.mT(!1,j,!0,new A.bH(B.IM,A.cJ(A.b([i,B.Va,A.e0(A.da(A.b([s,B.hb,A.cJ(q,B.w,B.v,B.y,0)],r),B.az,B.v,B.y)),B.qw],r),B.w,B.v,B.y,0),o),o,!0,o,o,o,o,o,o,o,o,o,new A.alP(a,n),o,o,o,o),B.m,B.A,0,o,o,o,o,o,B.cq),B.m,o,o,new A.bx(B.f,o,l,m,k,o,B.J),o,o,B.IG,o,o,o,o)},
+q=A.b([B.Kp,B.C3,A.aJ(o.gxR(),p,p,p,B.hg,p,p)],r)
+if(o.gDo()!=null)B.b.K(q,A.b([B.c6,B.KC,B.C3,A.aJ("\u2066"+A.k(o.gDo())+"\u2069",p,p,p,B.hg,p,p)],r))
+return A.bZ(p,A.ht(!1,B.P,!0,p,A.mT(!1,k,!0,new A.bH(B.IM,A.cJ(A.b([j,B.Va,A.e0(A.da(A.b([s,B.hb,A.cJ(q,B.w,B.v,B.y,0)],r),B.az,B.v,B.y)),B.qw],r),B.w,B.v,B.y,0),p),p,!0,p,p,p,p,p,p,p,p,p,new A.alP(a,o),p,p,p,p),B.m,B.A,0,p,p,p,p,p,B.cq),B.m,p,p,new A.bx(B.f,p,m,n,l,p,B.J),p,p,B.IG,p,p,p,p)},
 $S:385}
 A.alP.prototype={
 $0(){A.hl(this.a,"/patients/"+A.k(J.b0x(this.b)),t.X)},
